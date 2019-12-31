@@ -1,12 +1,13 @@
 @import url(https://fonts.googleapis.com/css?family=Bitter);
 #slogan {font-style: italic; 
 }
-body{font-family: 'Bitter', serif;
+body{
 text-align: center;
 	color: white;
 background-color: black;
  }
 h1{text-align: center;
-font-weight: bold;}
+font-weight: bold;
+font-family: 'Bitter', serif;}
 p{font-size: 15px;}
 hr{width: 300px;}

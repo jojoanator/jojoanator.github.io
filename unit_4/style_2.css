@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Bitter);
+
 #slogan {font-style: italic; 
 }
 body{
@@ -8,7 +9,7 @@ background-color: black;
  }
 h1{text-align: center;
 font-weight: bold;
-font-family: 'Bitter', serif;
+font-family: 'Bitter', cursive;
 }
 p{font-size: 15px;}
 hr{width: 300px;}

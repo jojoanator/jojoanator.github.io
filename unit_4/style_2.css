@@ -1,6 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Bitter);
-#slogan {font-style: italic; }
-body{text-align: center;
+#slogan {font-style: italic; 
+}
+body{font-family: 'Bitter', serif;
+text-align: center;
 	color: white;
 background-color: black;
  }

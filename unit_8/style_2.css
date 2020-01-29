@@ -49,7 +49,7 @@ font-family: 'Bitter', cursive;
 p{font-size: 15px;}
 hr{width: 300px;}
 
-@media (max-width: 800px) {
+@media only screen (min-width: 480px) and (max-width: 800px) {
     nav {
         float:none;
     }

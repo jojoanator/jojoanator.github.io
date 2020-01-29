@@ -49,21 +49,24 @@ font-family: 'Bitter', cursive;
 p{font-size: 15px;}
 hr{width: 300px;}
 
-@media only screen and (max-width: 800px) {
+@media (max-width: 800px) {
     nav {
         float:none;
     }
 
     #two_column {
-    border: 1em
+    float: none;
+    border: 1em;
     padding: 1em;
 }
 #left {
     float: none;
+    padding: 2em;
 }
 
 #right {
     float: none;   
+    padding: 2em;
 }
 }
 

@@ -3,7 +3,7 @@
 #slogan {font-style: italic; 
 }
 #two_column {
-    background-color: #FFB7CF;
+    background-color: black;
     border: 1px black solid;
     padding: 20px;
 }
@@ -57,6 +57,13 @@ hr{width: 300px;}
     #two_column {
     border: 1em
     padding: 1em;
+}
+#left {
+    float: none;
+}
+
+#right {
+    float: none;   
 }
 }
 

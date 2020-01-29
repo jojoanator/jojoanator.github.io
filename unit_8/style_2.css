@@ -1,0 +1,64 @@
+@import url(https://fonts.googleapis.com/css?family=Bitter);
+
+#slogan {font-style: italic; 
+}
+#two_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: blue;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+#right {
+    background-color: blue;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;   
+    width: 62%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+header{background-color: blue; border: 2px purple solid; padding: 10px}
+
+
+body{
+text-align: center;
+	color: white;
+background-color: black;
+ }
+article{background-color: blue; border: 4px black solid; padding: 30px;}
+h1{text-align: center;
+font-weight: bold;
+font-family: 'Bitter', cursive;
+}
+p{font-size: 15px;}
+hr{width: 300px;}
+
+@media only screen and (max-width: 800px) {
+    nav {
+        float:none;
+    }
+
+    #two_column {
+    border: 1em
+    padding: 1em;
+}
+}
+
+
+

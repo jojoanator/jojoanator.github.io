@@ -12,7 +12,7 @@
     background-color: blue;
     border: 1px black solid;
     padding: 20px;
-    float: left;
+    float: none;
     width: 30%;
 }
 
@@ -20,7 +20,7 @@
     background-color: blue;
     border: 1px black solid;
     padding: 20px;
-    float: right;   
+    float: none;   
     width: 62%;
 }
 

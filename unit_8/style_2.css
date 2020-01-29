@@ -12,7 +12,7 @@
     background-color: blue;
     border: 1px black solid;
     padding: 20px;
-    float: none;
+    float: left;
     width: 30%;
 }
 
@@ -20,7 +20,7 @@
     background-color: blue;
     border: 1px black solid;
     padding: 20px;
-    float: none;   
+    float: right;   
     width: 62%;
 }
 
@@ -59,15 +59,11 @@ hr{width: 300px;}
     border: 1em;
     padding: 1em;
 }
-#left {
+section{
     float: none;
-    padding: 2em;
-}
-
-#right {
-    float: none;   
-    padding: 2em;
-}
+    border: 1em;
+    padding: 1em;
+    }
 }
 
 

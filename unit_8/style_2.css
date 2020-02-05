@@ -49,7 +49,7 @@ font-family: 'Bitter', cursive;
 p{font-size: 15px;}
 hr{width: 300px;}
 
-@media only screen (min-width: 480px) and (max-width: 800px) {
+@media screen and (max-width: 800px) {
     nav {
         float:none;
     }
@@ -58,6 +58,11 @@ section{
     border: 1em;
     padding: 1em;
     }
+
+#left,#right{
+    float: none;
+    width: 100%;
+}    
 }
 
 

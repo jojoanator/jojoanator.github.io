@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>BOBBY + FRANNIE</title>
+</head>
+
+<body>
+	<table border="1" width="100%">		
+		<tr>
+			<th align="left">BOBBY + FRANNIE WORKSPACE</th>
+			<td>
+			<table cellspacing="20" align="center" border="1">
+				<tr>
+					<td>work</td>
+					<td>about</td>
+					<td>contact</td>
+				</tr>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2">image</td>
+		</tr>
+		<tr>
+			<td width="50%" valign="top">
+				<h2>who we are</h2>
+				<p>Our business is to help dogs all around the world and to find a home for dogs in need.</p>
+			</td>
+			<td width="50%" valign="top">
+				<h2>How We Do It</h2>
+              <table align="center"border="1">
+                <tr>
+                  <td>HTML</td>
+                  <td>CSS</td>
+                </tr>
+                <tr>
+                  <td>Donation</td>
+                  <td>Volunteers</td>
+                  <td>Friendships</td>
+                </tr>
+              </table>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" colspan="2">© 2020</td>
+		</tr>
+	</table>
+</body>
+
+</html>
